@@ -1,2 +1,2 @@
 - A Placebo magic booster
-- Replacement mechanic for 
+- Replacement mechanic for resource?
