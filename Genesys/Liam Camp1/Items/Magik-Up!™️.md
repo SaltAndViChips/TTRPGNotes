@@ -1,1 +1,2 @@
 - A Placebo magic booster
+- Replacement mechanic for 
