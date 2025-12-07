@@ -1,2 +1,2 @@
 - A Placebo magic booster
-- Replacement mechanic for resource?
+- Reflavor for the Aember resource
