@@ -18,6 +18,14 @@
 - Incredibly gullible.
 - Innately mundane, unable to cast magic naturally.
 
+### Physical Appearance
+- 5'11
+- Black Hair
+- Black Square Glasses (Duct Taped)
+- Khaki Pants
+- Patterned Button-Up
+- Dark Blue Tie 
+
 
 
 
