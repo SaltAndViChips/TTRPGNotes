@@ -1,10 +1,23 @@
 
 > Played By SaltAndViChips
 - Human Trader
-	- Former Lead Operations & Sales Effectiveness Representative (L.O.S.E.R) for [[Magik-Up Co.™️]]
 	- Friends with [[Sam Stansfield]]
-	- Sells [[Magik-Up!™️]] for a larger company of supplement suppliers, sold a large shipment to the gang, when the gang used them during a big heist/gang battle, the supplements didn't work and the gang (Potentially a group controlled by the [[Weirdos]]) sold him out.
-	- Hates knock-offs of [[Magik-Up!™️]], fully believes it is everything advertised.
+	-  Former Lead Operations & Sales Effectiveness Representative (L.O.S.E.R) for [[Magik-Up Co.™️]] 
+		- Sold a large shipment to the gang.
+		- Product didn't work, resulting in a failed heist.
+		- Gang is now chasing him down.
+		- Forced to take a Compulsory Holiday by his boss. 
+	
+### Goals
+- Resolve the ongoing conflict
+- Return to his position in [[Magik-Up Co.™️]]
+- Check up with [[Sam Stansfield]], find out why he took over John's position
+
+### Flaws
+- Hates knock-offs of [[Magik-Up!™️]], fully believes it is everything advertised.
+- Incredibly gullible.
+- Innately mundane, unable to cast magic naturally.
+
 
 
 
