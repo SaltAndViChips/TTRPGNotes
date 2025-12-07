@@ -1,5 +1,3 @@
-
-
 A Small Jewelry Shop, turned magic charm shop.
 
 ## Residents

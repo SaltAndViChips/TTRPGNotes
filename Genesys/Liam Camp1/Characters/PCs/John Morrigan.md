@@ -34,7 +34,9 @@
 - Patterned Button-Up
 - Dark Blue Tie 
 
-
+>Related Articles
+>[[Sam Stansfield]]
+>[[Magik-Up Co.™️]]
 
 
 
