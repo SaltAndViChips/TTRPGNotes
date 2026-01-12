@@ -16,6 +16,6 @@ darkMode: true
 
 
 #### Related Articles
-[[Bits and Bobs]]
+[[Bits and Bobs Enchantarium]]
 [[Xiv's Home]]
 [[Takis]]
