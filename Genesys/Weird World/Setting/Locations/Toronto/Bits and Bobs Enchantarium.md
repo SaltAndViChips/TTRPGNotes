@@ -4,7 +4,7 @@ A Small Jewelry Shop, turned magic charm shop.
 - [[Gram]]
 - [[Ma]]
 - [[Lily]]
-- [[Primrose]]
+- [[Primrose Ariete]]
 
 #### Interior
-[[Primrose]] lives in a dollhouse on the countertop
+[[Primrose Ariete]] lives in a dollhouse on the countertop
