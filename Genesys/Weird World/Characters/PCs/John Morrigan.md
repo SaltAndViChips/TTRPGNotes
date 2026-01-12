@@ -39,3 +39,15 @@
 >[[Magik-Up Co.™️]]
 
 #ally
+
+Potential Skills:
+
+>Public Relations
+Tier: 1
+Activation: Active (Incidental)
+Ranked: Yes
+After your character makes a Charm check, they may 
+suffer 1 strain to use this talent to cancel h equal to 
+your character’s ranks in Public Relations.
+
+>
